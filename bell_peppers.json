@@ -1,5 +1,41 @@
 [
   {
+    "name": "Burpee 'Sweet Candy Apple' Hybrid | Bell Pepper",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "Dried Red and Green Bell Peppers Mix by It's Delish, 1 lb Bulk Bag, All Natural",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "Dried Red and Green Bell Peppers Mix by It's Delish, 9 oz Large Jar, Chopped, Spice Seasoning",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "GranAroma Red Bell Pepper Powder, Sweet Pepper Flavor, Baking & Cooking (17 Ounce)",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "Green BELL Peppers 1 Pound Bulk Bag-Heat Sealed to Maintain Freshness-Crushed & Dried Spice Seasoning",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "Holiday Wedding Party Decoration Mini Bell Peppers Vegetables For Decoration Pepper Decoration 2/3/4PCS",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "Howard Foods Howards Sweet Pepper Relish, 11 oz Jar",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "Mezzetta Sweet Banana Peppers, 16 fl oz Jar",
+    "is_bell_pepper": false
+  },
+  {
+    "name": "TAZAH Chili Peppers 22oz (624g) – Pickled Hot Yellow Cascabella Peppers",
+    "is_bell_pepper": false
+  },
+  {
     "name": "(3 pack) Mezzetta Roasted Red Bell Pepper Strips, 16 fl oz Jar (CA Only)",
     "is_bell_pepper": false
   },
@@ -733,13 +769,9 @@
   },
   {
     "name": "Serrano Chili Peppers",
-
-	
     "is_bell_pepper": false
   },
-
-  
-{
+  {
     "name": "Red Bell Peppers",
     "is_bell_pepper": true
   },
