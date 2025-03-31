@@ -1,1886 +1,2200 @@
 [
   {
     "product_title": "Plain Bagels",
-    "is_plain_yogurt": false,
-    "confidence": 0.99,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.99
   },
   {
     "product_title": "Plain Bagels",
-    "is_plain_yogurt": false,
-    "confidence": 0.99,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.99
   },
   {
     "product_title": "siggi's Vanilla Icelandic-Style Nonfat Yogurt, 5.3 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.98
   },
   {
     "product_title": "Zoi Honey Vanilla Whole Milk Greek Yogurt Tub",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Original Smooth Style Strawberry Flavored Low Fat Yogurt Tub, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Original Low Fat Lemon Burst Yogurt Cup, Made with Real Fruit, 6 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Original Low Fat French Vanilla Yogurt Cup, 6 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Light Very Vanilla Fat Free Yogurt Cup, 6 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.98
   },
   {
     "product_title": "Vanilla Bean Whole Milk Greek Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Vanilla & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Raspberries & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Meyer Lemon & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Blueberries & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "siggi's Vanilla Icelandic-Style Nonfat Yogurt, 5.3 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.98
   },
   {
     "product_title": "Zoi Honey Vanilla Whole Milk Greek Yogurt Tub",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Original Smooth Style Strawberry Flavored Low Fat Yogurt Tub, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Original Low Fat Lemon Burst Yogurt Cup, Made with Real Fruit, 6 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Original Low Fat French Vanilla Yogurt Cup, 6 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Yoplait Light Very Vanilla Fat Free Yogurt Cup, 6 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.98
   },
   {
     "product_title": "Vanilla Bean Whole Milk Greek Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Vanilla & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Raspberries & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Meyer Lemon & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Blueberries & Cream Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.98,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.98
   },
   {
     "product_title": "Icelandic Style Skyr Lowfat Raspberry Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Icelandic Style Skyr Lowfat Cherry Yogurt",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "siggi's® Icelandic Skyr Nonfat Yogurt, Plain, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "siggi's® Icelandic Skyr Nonfat Yogurt, Plain, 24 oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "siggi's® Icelandic Strained Nonfat Yogurt, Plain, 24 oz. Multiserving Container – Thick, Protein-Rich Yogurt Snack",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "siggi's Plain Icelandic Skyr Nonfat Yogurt - 24 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "siggi's Icelandic Strained Nonfat Yogurt, Plain, 5.3 oz. Single Serve Cup – Thick, Protein-Rich Yogurt Snack",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "bettergoods Whole Milk Plain Greek Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Zoi, Greek Traditional Plain Yogurt 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Zoi Plain Whole Milk Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Zoi Greek Yogurt Plain Traditional Style - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Zoi Greek Plain Traditional Style Yogurt, Net WT 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Yoplait Fat Free Blended Vanilla Greek Yogurt, 5.3 Ounce -- 12 per Case.",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Yogurt Guernsey Plain, 1 quart",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Yogurt Greek Plain Organic, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Yogurt Greek Plain Low Fat Organic, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Yogourmet Yogurt Starter (16 Pack Bulk Version) - Make Yogurt at Home - Starter Culture - All Natural, Gluten Free, Kosher, Halal - 3 g Sachets",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Yobaby Plain Yogurt 6pk, 4 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Whole Milk Yogurt, Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Wallaby Organic Aussie Greek Whole Milk Yogurt, Plain, 32 oz. USDA Organic",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Wallaby Organic Aussie Greek Nonfat Yogurt, Plain, 32 oz. USDA Organic",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "WHOLE MILK PLAIN GREEK YOGURT 32OZ",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Trimona Organic Plain Bulgarian Whole Milk Full Fat Yogurt, 32 Ounce -- 6 per case.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Tillamook Plain Low Fat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Tillamook Old-Fashioned Vanilla Low Fat Greek Yogurt, 5.3 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "The Greek Gods® Plain Traditional Greek Style Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "The Greek Gods Probiotic Plain Traditional Greek Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Straus Family Creamery, Plain Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Strained Thick & Creamy Greek Yogurt Plain",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield® Organic Vanilla Probiotic Whole Milk Yogurt Tub",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield® Organic Probiotic Plain Whole Milk Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield Organic Whole Milk Probiotic Yogurt, Plain, 32 oz. – Immunity & Digestive Health",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield Organic Plain Whole Milk Probiotic Yogurt, 32 oz Container",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield Organic Plain Whole Milk Probiotic Yogurt Tub - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield Organic Lowfat Yogurt, Plain, 32 oz. – 7g of Protein, Multiserving Yogurt Snack & Cooking Substitute",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield Organic Greek Nonfat Yogurt, Plain, 32 oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield Farm Organic Smooth and Creamy Plain Greek Nonfat Yogurt, 32 Ounce -- 6 per Case.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Stonyfield - Plain Greek Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Simple Truth Organic® Plain Whole Milk Greek Yogurt Cultured Dairy Blend Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Simple Truth Organic® Plain Nonfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Simple Truth Organic® Plain Low Fat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Siggi's Icelandic Strained Whole Milk Yogurt, Plain, 24 OZ. – Thick, Protein-Rich Yogurt Snack",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Whole Milk Skyr Yogurt, 30 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Whole Milk Greek Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Unsweetened Greek Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Unsweetened Greek Syle Yogurt, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Unsweetened Greek Syle Yogurt, 16 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Sheep Milk Yogurt, 6 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Sheep Milk Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Lowfat Skyr Yogurt, 30 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Lactose Free Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Goat Milk Yogurt, 32oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Cream Top Yogurt, 2 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Yogurt 32 OZ",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Yogurt (Low Fat), 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Grassfed Greek Yogurt, 1.5 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Grass-fed Low Fat A2 Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Bulgarian A2A2 Yogurt, 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Organic Plain Whole Milk Greek Yogurt, 1.9 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Lowfat Yogurt - Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Lowfat Plain Yogurt, 2 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Greek Yogurt Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Greek Non-Fat - Plain Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Aussie Greek Plain Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic 0% Fat Plain Greek Yogurt, 2 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Oikos Dannon Core Plain Blended Nonfat Greek Yogurt, 5.3 Ounce Cup -- 12 per case",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "O Organics Greek Yogurt Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Noosa Perfectly Plain Yoghurt 8 Oz - 8 OZ",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nonfat Plain Greek Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Non-Fat Greek Yogurt Plain 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Non-Fat Greek Yogurt Plain 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancys Yogurt Reduced Fat Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancys Yogurt Low Fat Plain - 64 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancys Organic Yogurt Whole Milk Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's® Plain Organic Probiotic Whole Milk Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's, Organic Whole Milk Yogurt, Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's Plain Probiotic Low Fat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's Plain Organic Probiotic Nonfat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's 100% Grass-Fed Plain Probiotic Whole Milk Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High, Low Fat Yogurt, Vanilla, Gluten Free Snacks, 32 OZ Container",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High, Low Fat Yogurt, Plain, Gluten Free Snacks, 32 OZ Yogurt Container",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Yogurt Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Plain Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Plain Low Fat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Low Fat Plain Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Yogurt Fat Free Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Whole Plain Milk - 5.3 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Whole Milk Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Reduced Fat Plain - 32 Oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Nonfat Plain - 5.3 Oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Nonfat Plain - 32 Oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Kroger® Plain Nonfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Kroger® Plain Nonfat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Judee's Yogurt Powder 5 lb - Non-GMO, Gluten Free, Nut Free & Hormone Free - Real Dairy, Made in USA for Homemade Yogurt, Tangy Dips, Dressings & Toppings",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Yogurt Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Yog Plain No Fat, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Whole Milk Yogurt Plain",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Nonfat Yogurt Plain",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Gods Yogurt Greek Style Traditional Plain - 24 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Plain Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Light Vanilla Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Light Greek Vanilla Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Greek Vanilla Nonfat Yogurt, 32 oz Tub (Plastic Container)",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Greek Plain Nonfat Yogurt, 5.3 oz Cups (Plastic Container)",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Greek Plain Nonfat Yogurt, 32 oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 5% Milkfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 2% Milkfat Low Fat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 2% Milkfat Low Fat Greek Strained Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 0% Milkfat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® BestSelf Plain Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage Total Plain 5% Milkfat Low Fat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total Greek Yogurt, 5% Whole Milk, Plain, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total Greek Yogurt, 2% Reduced Fat, Plain, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total Greek Yogurt, 0% Nonfat, Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Whole Milk Plain Greek Strained Yogurt, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Whole Milk Plain Greek Strained Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Reduced Fat Plain Greek Strained Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Nonfat Plain Greek Strained Yogurt, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Nonfat Plain Greek Strained Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Nonfat Plain Greek Strained Yogurt, 16 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 5% Milkfat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 2% Milkfat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 2% Milkfat Plain Greek Yogurt - 16 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 0% Milkfat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 0% Milkfat Plain Greek Yogurt - 16 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE BestSelf All Natural Reduced Fat Plain Lactose Free Greek Strained Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Ellenos Yogurt Greek Plain Unsweetened - 24 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Dannon Plain Whole Milk Yogurt Quart, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Cultures for Health Greek Yogurt Starter Culture | 2 Packets Dehydrated Heirloom Style DIY Probiotic Yogurt | Delicious for Smoothies, Granola and Berries, Tzatziki, Soup, & Other Healthy Snacks",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Coolinario Yogurt Starter Culture (10-Pack, 1g Sachets) Live Cultures for Homemade Yogurt | Creamy, Thick & Delicious | Regular or Greek Yogurt | Non-GMO, No Preservatives, Gluten Free, Halal & Kosher",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Whole Milk Plain Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Plain Nonfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Plain Nonfat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Non-Fat Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Non-Fat Plain Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Whole Milk Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Original Plain Fat-Free Greek Yogurt, 5.3 Oz., 4 Cups",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Plain Greek Yogurt - 5.3 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Greek Yogurt Plain 5.3 oz Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Greek Yogurt Plain 32 oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Brown Cow Cream Top Plain Whole Milk Yogurt, 32 oz. Carton - Creamy, Delicious Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Brown Cow Cream Top Plain Whole Milk Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Amoretti - Yogurt Plain Extract Water Soluble 2 oz - Highly Concentrated & Perfect For Pastry, Savory, Brewing, and more, Preservative Free, Vegan, Kosher Pareve, Keto Friendly",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Amazon Grocery, Whole Milk Plain Yogurt, 32 Oz (Previously Amazon Fresh, Packaging May Vary)",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Amazon Grocery, Low Fat Plain Yogurt, 32 Oz (Previously Amazon Fresh, Packaging May Vary)",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "5% Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "365 by Whole Foods Market, Yogurt Plain Organic, 32 Ounce",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "365 by Whole Foods Market, Yogurt Plain Low Fat Organic, 32 Ounce",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "365 by Whole Foods Market, Yogurt Greek Plain Non Fat Organic, 32 Ounce",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "2% Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "2% Plain Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "0% Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "0% Plain Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Sheep Milk Yogurt, 6 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Sheep Milk Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Lowfat Skyr Yogurt, 30 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Lactose Free Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Goat Milk Yogurt, 32oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Plain Cream Top Yogurt, 2 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Yogurt 32 OZ",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Yogurt (Low Fat), 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Grassfed Greek Yogurt, 1.5 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Grass-fed Low Fat A2 Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Plain Bulgarian A2A2 Yogurt, 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Organic Plain Whole Milk Greek Yogurt, 1.9 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Lowfat Yogurt - Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Lowfat Plain Yogurt, 2 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Greek Yogurt Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Greek Non-Fat - Plain Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic Aussie Greek Plain Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Organic 0% Fat Plain Greek Yogurt, 2 lb",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Oikos Dannon Core Plain Blended Nonfat Greek Yogurt, 5.3 Ounce Cup -- 12 per case",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "O Organics Greek Yogurt Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Noosa Perfectly Plain Yoghurt 8 Oz - 8 OZ",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nonfat Plain Greek Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Non-Fat Greek Yogurt Plain 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Non-Fat Greek Yogurt Plain 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancys Yogurt Reduced Fat Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancys Yogurt Low Fat Plain - 64 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancys Organic Yogurt Whole Milk Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's® Plain Organic Probiotic Whole Milk Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's, Organic Whole Milk Yogurt, Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's Plain Probiotic Low Fat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's Plain Organic Probiotic Nonfat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Nancy's 100% Grass-Fed Plain Probiotic Whole Milk Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High, Low Fat Yogurt, Vanilla, Gluten Free Snacks, 32 OZ Container",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High, Low Fat Yogurt, Plain, Gluten Free Snacks, 32 OZ Yogurt Container",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Yogurt Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Plain Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Plain Low Fat Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Mountain High Low Fat Plain Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Yogurt Fat Free Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Whole Plain Milk - 5.3 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Whole Milk Plain - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Reduced Fat Plain - 32 Oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Nonfat Plain - 5.3 Oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Lucerne Greek Yogurt Nonfat Plain - 32 Oz.",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Kroger® Plain Nonfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Kroger® Plain Nonfat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Judee's Yogurt Powder 5 lb - Non-GMO, Gluten Free, Nut Free & Hormone Free - Real Dairy, Made in USA for Homemade Yogurt, Tangy Dips, Dressings & Toppings",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Yogurt Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Yog Plain No Fat, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Whole Milk Yogurt Plain",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Nonfat Yogurt Plain",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Greek Gods Yogurt Greek Style Traditional Plain - 24 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Plain Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Light Vanilla Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Light Greek Vanilla Nonfat Yogurt, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Greek Vanilla Nonfat Yogurt, 32 oz Tub (Plastic Container)",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Greek Plain Nonfat Yogurt, 5.3 oz Cups (Plastic Container)",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Great Value Greek Plain Nonfat Yogurt, 32 oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 5% Milkfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 2% Milkfat Low Fat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 2% Milkfat Low Fat Greek Strained Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® Total Plain 0% Milkfat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage® BestSelf Plain Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Fage Total Plain 5% Milkfat Low Fat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total Greek Yogurt, 5% Whole Milk, Plain, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total Greek Yogurt, 2% Reduced Fat, Plain, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total Greek Yogurt, 0% Nonfat, Plain, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Whole Milk Plain Greek Strained Yogurt, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Whole Milk Plain Greek Strained Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Reduced Fat Plain Greek Strained Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Nonfat Plain Greek Strained Yogurt, 5.3 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Nonfat Plain Greek Strained Yogurt, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total All Natural Nonfat Plain Greek Strained Yogurt, 16 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 5% Milkfat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 2% Milkfat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 2% Milkfat Plain Greek Yogurt - 16 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 0% Milkfat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE Total 0% Milkfat Plain Greek Yogurt - 16 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "FAGE BestSelf All Natural Reduced Fat Plain Lactose Free Greek Strained Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Ellenos Yogurt Greek Plain Unsweetened - 24 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Dannon Plain Whole Milk Yogurt Quart, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Cultures for Health Greek Yogurt Starter Culture | 2 Packets Dehydrated Heirloom Style DIY Probiotic Yogurt | Delicious for Smoothies, Granola and Berries, Tzatziki, Soup, & Other Healthy Snacks",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Coolinario Yogurt Starter Culture (10-Pack, 1g Sachets) Live Cultures for Homemade Yogurt | Creamy, Thick & Delicious | Regular or Greek Yogurt | Non-GMO, No Preservatives, Gluten Free, Halal & Kosher",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Whole Milk Plain Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Plain Nonfat Greek Yogurt Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Plain Nonfat Greek Yogurt Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Non-Fat Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani® Non-Fat Plain Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Whole Milk Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Original Plain Fat-Free Greek Yogurt, 5.3 Oz., 4 Cups",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Plain Greek Yogurt - 5.3 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Plain Greek Yogurt - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Greek Yogurt Plain 5.3 oz Cup",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Chobani Non-Fat Greek Yogurt Plain 32 oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Brown Cow Cream Top Plain Whole Milk Yogurt, 32 oz. Carton - Creamy, Delicious Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Brown Cow Cream Top Plain Whole Milk Yogurt",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Amoretti - Yogurt Plain Extract Water Soluble 2 oz - Highly Concentrated & Perfect For Pastry, Savory, Brewing, and more, Preservative Free, Vegan, Kosher Pareve, Keto Friendly",
-    "is_plain_yogurt": false,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Amazon Grocery, Whole Milk Plain Yogurt, 32 Oz (Previously Amazon Fresh, Packaging May Vary)",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "Amazon Grocery, Low Fat Plain Yogurt, 32 Oz (Previously Amazon Fresh, Packaging May Vary)",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "5% Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "365 by Whole Foods Market, Yogurt Plain Organic, 32 Ounce",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "365 by Whole Foods Market, Yogurt Plain Low Fat Organic, 32 Ounce",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "365 by Whole Foods Market, Yogurt Greek Plain Non Fat Organic, 32 Ounce",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "2% Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "2% Plain Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.95
   },
   {
     "product_title": "0% Plain Greek Yogurt 5.3oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "0% Plain Greek Yogurt 32oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.95,
-    "is_nonfat": true
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": true,
+    "confidence": 0.95
   },
   {
     "product_title": "Unsweetened Plain Almond Yogurt, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Plain Goat Milk Kefir, 32oz Bottle",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Plain Coconut Yogurt, 24 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Organic Whole Milk Plain Kefir, 32 fl oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Organic Lowfat Plain Kefir, 32 fl oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Organic Dairy-free Unsweetened Plain Cashewmilk Yogurt, 24 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Organic Dairy-Free Unsweetened Plain Probiotic Drinkable Cashewmilk Yogurt, 28 fl oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Organic Creamy Cashew Cultured Yogurt Alternative, Plain Unsweetened",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "ORGANIC RICH AND CREAMY UNSWEETENED PLAIN DAIRY-FREE YOGURT ALTERNATIVE (24OZ)",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Non-Dairy Almondmilk Yogurt, Unsweetened Plain, 32 oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Linjieee Organic Baby Yogurt Plain 2pc 24 Cut Triangle Powder Puff Non Latex Meets Water Becomes Large Matcha Red Hydrophilic Dry And Wet Dual Use Air Cushion Puff",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Lifeway® Plain Organic Probiotic Low Fat Kefir Drink",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Homemade Greek Yogurt Large Capacity Cold Brew Mesh Strainer with Bag Cheese Nut Plain Milk",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "HARMLESS HARVES - Dairy-Free Plain Yogurt Cup 24FO ( Pack of 6)",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Forager Project Organic Yogurt Alternative Cashewmilk Dairy Free Unsweetened Plain - 24 Oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "EasiYo Greek Style Plain 0.02 Yogurt Base 6 pack",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "EasiYo Greek Style Plain 0.02 Yogurt Base 3 pack",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Chocolate Yogurt Arrowroot Cookies Puff N Go Beaded Puff Sleeve Dress Puff Cleaning Sponges Organic Baby Yogurt Plain D Puff Embroidery Makeup under Eye Pads Reusable Makeup Pads Cotton Rounds Makeup",
-    "is_plain_yogurt": false,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Oikos Pro 25g Protein, Plain Yogurt-Cultured Dairy Product Tub, 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Lucerne Yogurt Whole Milk - 32 Oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Karoun Whole Milk Yogurt, 64 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Chobani Non-Fat Greek Yogurt Whole Milk Plain 32 oz Tub",
-    "is_plain_yogurt": true,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "4% Plain Skyr Yogurt, 24 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.9,
-    "is_nonfat": false
+    "is_yogurt": true,
+    "is_plain": true,
+    "is_nonfat": false,
+    "confidence": 0.9
   },
   {
     "product_title": "Lactose Free Lowfat Plain Kefir, 32 fl oz",
-    "is_plain_yogurt": false,
-    "confidence": 0.85,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.85
   },
   {
     "product_title": "0% Plain Filmjolk Drinkable Yogurt, 32 fl oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.85,
-    "is_nonfat": true
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": true,
+    "confidence": 0.85
   },
   {
     "product_title": "Plain 5% 32 oz",
-    "is_plain_yogurt": true,
-    "confidence": 0.85,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.85
   },
   {
     "product_title": "EASIYO Greek Style Plain 2%_48_x_170g (US) 1 pack",
-    "is_plain_yogurt": true,
-    "confidence": 0.8,
-    "is_nonfat": false
+    "is_yogurt": false,
+    "is_plain": false,
+    "is_nonfat": false,
+    "confidence": 0.8
   }
 ]
